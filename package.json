@@ -1,0 +1,24 @@
+{
+  "name": "alipay-verify",
+  "version": "0.0.1",
+  "description": "verify alipay notify with RSA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guileen/alipay-verify.git"
+  },
+  "keywords": [
+    "alipay",
+    "verify",
+    "rsa"
+  ],
+  "author": "guileen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guileen/alipay-verify/issues"
+  },
+  "homepage": "https://github.com/guileen/alipay-verify"
+}
